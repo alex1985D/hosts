@@ -3,7 +3,7 @@ adara.com
 liveramp.com
 accordantmedia.com
 4wmarketplace.com
-1plusx.com-
+1plusx.com
 adform.com
 adobe.com
 adux.com
@@ -23,7 +23,7 @@ emetriq.com
 exelate.com
 eyeota.com
 hyotytieto.fonecta.fi
-google.co.uk-
+google.co.uk
 ignitionone.com
 weareilluma.com
 intentmedia.com
@@ -31,14 +31,14 @@ jadudamobile.com
 xpo.knorex.com
 leiki.com
 ligatus.de
-lightreaction.com-
-rakutenmarketing.com-
+lightreaction.com
+rakutenmarketing.com
 wearemiq.com
 groupm.com
 myntelligence.com
 nanointeractive.com
 neory.com
-rakutenmarketing.com-
+rakutenmarketing.com
 nugg.ad
 oath.com
 orangeadvertising.fr
@@ -52,7 +52,7 @@ scoota.com
 semasio.com
 sizmek.com
 smartclip.com 
-solocalxchange.com-
+solocalxchange.com
 spot.im
 temelio.com
 thetradedesk.com
